@@ -12,3 +12,8 @@ function post (){
 };
 
 window.addEventListener('load', post);
+
+<post>
+  posut
+  
+</post>
